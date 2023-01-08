@@ -3,7 +3,7 @@
 ## About Myself
 
 1. A two or three word catchy title. Do NOT use cliches like “programming ninja” or “coding rockstar”.
-   * Senior Network Engineer
+   * Senior Infrastructure Engineer
 2. A personal headline, like you have atop your LinkedIn page. What do you want your career to be about?
    * I am a experienced IT professional who is fun energectic and devoted. I have a military background and habe skills in networking, customer service, troubleshooting, and programming.
 3. Your professional pitch: You’ve done a recording, so just write down here how it goes.
